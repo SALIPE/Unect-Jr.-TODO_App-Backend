@@ -2,10 +2,12 @@
 API para aplicativo TODO Task.
 
 # CONECTANDO E RODANDO
-    - No arquivo index colocar o link de conexao com seu banco de dados e dar o seguinte comando no terminal:
+ No arquivo index colocar o link de conexao com seu banco de dados e dar o seguinte comando no terminal:
 
     ```
     $ cd backend
+    ```
+    ```
     $ yarn dev
     ```
 
